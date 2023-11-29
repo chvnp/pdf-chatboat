@@ -21,8 +21,8 @@ https://modelfusion.dev/blog/pdf-chat-nodejs
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Unzip the file
-* Navigate into the extracted folder
+* Clone this repo
+* Navigate into the pdf-chatboat folder
 
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
