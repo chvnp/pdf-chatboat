@@ -21,8 +21,8 @@ https://modelfusion.dev/blog/pdf-chat-nodejs
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Clone this repo
-* Navigate into the pdf-chatboat folder
+* Unzip the file
+* Navigate into the extracted folder
 
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
@@ -37,3 +37,6 @@ https://modelfusion.dev/blog/pdf-chat-nodejs
 
 *That will open the project on your default browser: http://localhost:5173/
 * You can upload multiple PDFs and aks Questions
+
+repo link (https://github.com/chvnp/pdf-chatboat)
+Video Link (https://github.com/chvnp/pdf-chatboat/blob/main/Vite%20%2B%20React%20-%2029%20November%202023.mp4)
